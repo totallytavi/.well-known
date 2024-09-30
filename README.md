@@ -1,5 +1,6 @@
 # Discord Domain Connection Tutorial
 A simple repository with steps to get a domain from Github on Discord. Made by @totallytavi on Discord, licensed under MIT License.
+
 ![image](https://github.com/user-attachments/assets/f151c15f-e2b0-430e-a118-52eecd469601)
 
 # Steps
